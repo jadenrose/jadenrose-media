@@ -1,0 +1,319 @@
+{
+  "headline": "12 Weeks, 12 Songs:<br />The Power of Volume",
+  "subheadline": "A simple path to competence and confidence.",
+  "preamble": [
+    "I've been a musician my whole life and I've always wanted to write music, but it seemed like something always got in the way of truly dedicating myself to developing the required skills. In January of 2023, I broke the cycle of paralysis and committed to a challenge: create and release a song every week, for 12 weeks.",
+    "Below is my journey in chronological order."
+  ],
+  "songs": [
+    {
+      "headline": "The Inflection Point",
+      "songName": "Street Pulse",
+      "songNameInfo": null,
+      "body": "The song that started it all. This started innocently as a little experiment with sampling. I took samples from two video games: Pathologic: Classic HD, and Papers, Please and loaded them into Reaper to create this simple, under-two-minute track.",
+      "technologyShoutouts": [
+        {
+          "label": "LALAL.AI",
+          "description": "This tool is incredibly useful if you need to separate specific instruments from a track and you can't get the stems for it. <a href=\"https://www.lalal.ai/\">https://www.lalal.ai/</a>"
+        },
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "kx_DipQ6hrA"
+    },
+    {
+      "headline": "Challenge Start",
+      "songName": "Nexus",
+      "songNameInfo": "something",
+      "body": "I wrote this song on the same weekend as Street Pulse. This is technically the first entry of my challenge since this is the song that made me decide to keep going. I was feeling more comfortable working in Reaper and was excited to do more.",
+      "technologyShoutouts": [
+        {
+          "label": "TRIPLE CHEESE",
+          "description": "This is the plugin I used to get that characteristic \"PVC pipe\" synth sound. It's incredibly high-quality considering it's 100% free. <a href=\"https://u-he.com/products/triplecheese/\">https://u-he.com/products/triplecheese/</a>"
+        },
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "83y40PvKm6U"
+    },
+    {
+      "headline": "More Experimentation",
+      "songName": "Machina",
+      "songNameInfo": null,
+      "body": "More of an ambient piece, this is the only song of the 12 that features lyrics. It features some quotes from George Orwell, and a simple narrative written by me, assisted by ChatGPT. The vocals were generated using Amazon's Polly API via ttsmp3.com.",
+      "technologyShoutouts": [
+        {
+          "label": "ChatGPT",
+          "description": "ChatGPT is scary good at writing dystopian rhetoric. I'm not a lyricist and with this challenge I really couldn't afford extended writer's block. ChatGPT was super useful because I could feed it what I had already and it could extrapolate from that and give me more lyric ideas. <a href=\"https://chat.openai.com/\">https://chat.openai.com/</a>"
+        },
+        {
+          "label": "Polly",
+          "description": "Amazon's Polly API is incredibly customizeable and you can synthesize some pretty impressive speech with it. It allows for incredibly granular, HTML-esque direction for word emphasis, pitch, speed, etc. <a href=\"https://ttsmp3.com/\">https://ttsmp3.com/</a> is the site I used. It's handy because it renders it directly to MP3 and allows you to download the synthesized file directly in your browser."
+        },
+        {
+          "label": "Serum",
+          "description": "If you get into sound design, you'll inevitably end up using wavetable synths for pretty much everything you do. Serum is as close to an industry standard as you can get in this field. It's such a powerful tool and because of its popularity, there are thousands of tutorials that can help you with the fairly steep learning curve. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Neural DSP",
+          "description": "Archetype: Rabea has amazing guitar tones, but in my opinion, it really shines when creating ambience. The powerful reverb and delay and solid synth module are incredible tools for sound design. <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">https://neuraldsp.com/plugins/archetype-rabea</a>."
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "oejwtTy6rWc"
+    },
+    {
+      "headline": "Vibe Change",
+      "songName": "Repose",
+      "songNameInfo": null,
+      "body": "A bit of a departure mood-wise from the first 3 songs for sure. I had a lot of fun making ocean sounds with Serum and I just downloaded the Claustrophobic Piano Pack for Decent Sampler so I was definitely in a more chill headspace for this song and I'm pretty happy with how it turned out!",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "Serum has a certain reputation in Dubstep and EDM music for these very aggressive sounds, but it's incredibly versatile. Being a wavetable synth, you can pretty much use it to recreate any sound you want if you have the know-how. I used it in this song to create all the ocean sounds from scratch. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "s7txAqVkIks"
+    },
+    {
+      "headline": "Vibe Change, but Space?",
+      "songName": "Periapsis",
+      "songNameInfo": "something",
+      "body": "We're gonna stay in Chill City for a while. I would say this is my first truly “guitar-forward” song and my Prog influences definitely show in this one. It starts in 4/4 with the A section, then moves to 7/8 in the B section. When the A section comes back with the main signature riff, it's then in 7/8. I like how this creates an almost peaceful departure from the familiar, hence the space theme.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Serum",
+          "description": "I like to use synths to support other instruments with melody reinforcements and sound effects. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "FFf079jEDUQ"
+    },
+    {
+      "headline": "More 7 please",
+      "songName": "Valley",
+      "songNameInfo": null,
+      "body": "I find myself writing in 7 pretty often when I play fingerstyle guitar. Odd patterns just fit really nicely under a more classical right-hand technique.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Serum",
+          "description": "I like to use synths to support other instruments with melody reinforcements and sound effects. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "bxcObQUHLQU"
+    },
+    {
+      "headline": "Scratching an Itch",
+      "songName": "Petrichor",
+      "songNameInfo": "something",
+      "body": "The main riff of this song has been living in my head rent-free for at least 5 years. It feels so good to get it out of there and into the world. I'd play this riff all the time to de-stress so this song was incredibly meditative and therapeutic to finally write. I really feel like I did it justice.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Serum",
+          "description": "I like to use synths to support other instruments with melody reinforcements and sound effects. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "6ftTj6nWL3w"
+    },
+    {
+      "headline": "Indie Rock in 11",
+      "songName": "Petrichor",
+      "songNameInfo": "something",
+      "body": "Silversun Pickups and Manchester Orchestra are two of my favourite rock bands out there and I resonate a lot with their melodies and tones. I don't write much of it but I'm very happy when I can come up with a nice chill Indie Rock soundscape.",
+      "technologyShoutouts": [
+        {
+          "label": "Neural DSP",
+          "description": "This is really the gold standard for guitar plugins. No amps, no pedals needed. Just plug your guitar directly into your interface. Neural DSP uses machine learning to model real amps and cabs. I personally use Rabea Massaad's signature plugin <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">Archetype: Rabea</a>. This one is unique because it features a synth patch which allows for some pretty amazing soundscapes played purely on guitar."
+        },
+        {
+          "label": "Serum",
+          "description": "I like to use synths to support other instruments with melody reinforcements and sound effects. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "mc7N8H2n9KY"
+    },
+    {
+      "headline": "Back to Dystopia",
+      "songName": "Ruin",
+      "songNameInfo": null,
+      "body": "I was feeling the itch to get back to darker, more brooding sound design. This song helped me get back on track as far as the aesthetic I'm trying to accomplish with my art. This return to form has all the dark synth pads and hyper-aggressive guitar tones I strive for when writing moody music.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Neural DSP",
+          "description": "Archetype: Rabea has amazing guitar tones, but in my opinion, it really shines when creating ambience. The powerful reverb and delay and solid synth module are incredible tools for sound design. <a href=\"https://neuraldsp.com/plugins/archetype-rabea\">https://neuraldsp.com/plugins/archetype-rabea</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "This was one of my more subtle uses of Serum. The most prominent use of it is probably the subtle pads that come in about 2 minutes in, but most of Serum's job in this song is to provide a constant drone and ambience that runs the length of the song to really set a mood. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "X-cstwdzpdc"
+    },
+    {
+      "headline": "Sound Design",
+      "songName": "Wander",
+      "songNameInfo": null,
+      "body": "It was around this time I started to get the idea for a video game. To help scaffold out an aesthetic and start some very high-level design work on a game I'd like to develop, I put more time into my sound design and focused in on quasi-horror and mystery.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "I really enjoy the workflow of creating bass tones with Serum. It's incredibly satisfying to use and the built-in FX can really achieve an amazing mix of low-end and clarity. Almost everything in this song was done with Serum. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "riGcSU8x6JE"
+    },
+    {
+      "headline": "I'm Making a Game",
+      "songName": "Ward",
+      "songNameInfo": null,
+      "body": "By this point I'm fully committed to making a game. This song could be considered a proof-of-concept or even concept art for the game I'm envisioning. I spent more time honing my sound design chops and the art is much closer to the visuals I'm picturing for a game.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "This is a must-have plugin. There's a massive library of instrument packs for Decent Sampler. The plugin itself is free and there are tons of free instrument packs on pianobook, including my choice of Piano, <a href=\"https://www.pianobook.co.uk/packs/claustrophobic-piano/\">Claustrophobic Piano</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "This song was all about the drones. Serum is great at ambience. I also used it to make lots of risers and downers to create motion and texture in the track. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Splice",
+          "description": "Splice is an amazing repository for sound effects. It was very handy for creating environmental sounds like creaking doors, rain, and footsteps. <a href=\"https://splice.com/\">https://splice.com/</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "k7eWX3zPaXg"
+    },
+    {
+      "headline": "Creepy Sounds, Happy Music",
+      "songName": "Ward",
+      "songNameInfo": null,
+      "body": "I'm starting to latch onto side-chained choirs and pads as a signature aesthetic in the music for my game. While this song didn't shake out to be totally rooted in darkness and horror, I learned techniques that would absolutely come in handy for writing more dark music in the future.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "I'd been using Decent Sampler for a while by this point, but I mostly used it for Piano. For this song I wanted a haunting choir and pianobook delivered! <a href=\"https://www.pianobook.co.uk/packs/winter-voices/\">https://www.pianobook.co.uk/packs/winter-voices/</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "The choir effects have a ton of reverb and can be pretty unwieldy at times, so I used Serum to reinforce melodies and motion in points where the choir lacked some much-needed punch. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Splice",
+          "description": "Splice is an amazing repository for sound effects. It was very handy for creating environmental sounds like creaking doors, rain, and footsteps. <a href=\"https://splice.com/\">https://splice.com/</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "h3jTXyWh1a0"
+    },
+    {
+      "headline": "No Happy, Only Creepy",
+      "songName": "Steppe",
+      "songNameInfo": "something",
+      "body": "This song was really make or break for me. It's the last of the 12 songs and I really wanted to nail down the aesthetic for my game with this one. I'm super happy with how this turned out. I was able to use a lot of the same techniques I used for Zenith, but really held myself to the dark/horror theme.",
+      "technologyShoutouts": [
+        {
+          "label": "Decent Sampler",
+          "description": "I wanted to experiment more with choir sounds, so I used <a href=\"https://www.pianobook.co.uk/packs/winter-voices/\">Winter Voices</a> again, and I also used another great choir pack, <a href=\"https://www.pianobook.co.uk/packs/tunnel-voices/\">Tunnel Voices</a>."
+        },
+        {
+          "label": "Serum",
+          "description": "The choir effects have a ton of reverb and can be pretty unwieldy at times, so I used Serum to reinforce melodies and motion in points where the choir lacked some much-needed punch. <a href=\"https://xferrecords.com/products/serum\">https://xferrecords.com/products/serum</a>"
+        },
+        {
+          "label": "Splice",
+          "description": "Splice is an amazing repository for sound effects. It was very handy for creating environmental sounds like creaking doors, rain, and footsteps. <a href=\"https://splice.com/\">https://splice.com/</a>"
+        },
+        {
+          "label": "Midjourney",
+          "description": "Being able to get very high-quality art in minutes for every song was invaluable to this challenge. Every single needs artwork and I obviously didn't have time to commission artists so this challenge wouldn't have been possible in the same way without Midjourney. <a href=\"https://www.midjourney.com/\">https://www.midjourney.com/</a>"
+        }
+      ],
+      "videoId": "hHN8EKwuZeY"
+    }
+  ]
+}

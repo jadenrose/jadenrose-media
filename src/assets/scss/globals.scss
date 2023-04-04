@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  src: local('Ubuntu'), url('../fonts/Ubuntu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Ubuntu'), url('../fonts/Ubuntu-Bold.ttf') format('truetype');
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: $background;
+  color: $color;
+  font-family: 'Ubuntu';
+  font-size: 18px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+}
+
+p {
+  max-width: 70ch;
+  line-height: 1.6;
+}
