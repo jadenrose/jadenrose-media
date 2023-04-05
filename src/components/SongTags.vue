@@ -1,21 +1,21 @@
 <script setup>
-import { reactive } from 'vue';
-import SongTag from '@/components/SongTag.vue';
+import { reactive } from 'vue'
+import SongTag from '@/components/SongTag.vue'
 
 const state = reactive({ selectedIndex: -1, selectedDescription: null })
 
 const setDescription = (description) => {
-    state.selectedDescription = description
+  state.selectedDescription = description
 }
 
 const setSelectedIndex = (index) => {
-    state.selectedIndex = index
+  state.selectedIndex = index
 }
 </script>
 
 <script>
 export default {
-    props: ["tags"]
+  props: ['tags'],
 }
 </script>
 
@@ -58,6 +58,7 @@ export default {
 <style lang="scss">
 .tags-list {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .tag-description {
@@ -66,11 +67,14 @@ export default {
   background: $color;
   color: $background;
   border-radius: 8px;
-  width: 67%;
   padding-top: 0px;
-  font-size: 14px;
+  font-size: 0.78rem;
   padding: 12px;
   padding-top: 40px;
+
+  @include desktop {
+    max-width: 350px;
+  }
 }
 
 .tag-description p {

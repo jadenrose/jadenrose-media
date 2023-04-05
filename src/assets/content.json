@@ -2,7 +2,8 @@
   "headline": "12 Weeks, 12 Songs:<br />The Power of Volume",
   "subheadline": "A simple path to competence and confidence.",
   "preamble": [
-    "I've been a musician my whole life and I've always wanted to write music, but it seemed like something always got in the way of truly dedicating myself to developing the required skills. In January of 2023, I broke the cycle of paralysis and committed to a challenge: create and release a song every week, for 12 weeks.",
+    "I've been a musician my whole life and I've always wanted to produce music, but it seemed like something always got in the way of truly dedicating myself to developing the required skills. In January of 2023, I broke the cycle of paralysis and committed to a challenge: create and release a song every week, for 12 weeks.",
+    "What I discovered is that if I looked for it, I had way more energy - and time - than I thought I did and once I pushed through the initial learning curve and writer's block, challenge became habit. On the other side of these 3 months I found the purpose, drive, and capacity to continue these habits and keep improving.",
     "Below is my journey in chronological order."
   ],
   "songs": [
@@ -30,7 +31,7 @@
     {
       "headline": "Challenge Start",
       "songName": "Nexus",
-      "songNameInfo": "something",
+      "songNameInfo": "nexus<br /><strong>/ˈnɛksəs/</strong><br />A form or state of connection. A centre or focus of something.",
       "body": "I wrote this song on the same weekend as Street Pulse. This is technically the first entry of my challenge since this is the song that made me decide to keep going. I was feeling more comfortable working in Reaper and was excited to do more.",
       "technologyShoutouts": [
         {
@@ -101,7 +102,7 @@
     {
       "headline": "Vibe Change, but Space?",
       "songName": "Periapsis",
-      "songNameInfo": "something",
+      "songNameInfo": "periapsis<br /><strong>/pĕr′ē-ăp′sĭs/</strong><br />The point at which an orbiting object is closest to the center of mass of the body it is orbiting.",
       "body": "We're gonna stay in Chill City for a while. I would say this is my first truly “guitar-forward” song and my Prog influences definitely show in this one. It starts in 4/4 with the A section, then moves to 7/8 in the B section. When the A section comes back with the main signature riff, it's then in 7/8. I like how this creates an almost peaceful departure from the familiar, hence the space theme.",
       "technologyShoutouts": [
         {
@@ -151,7 +152,7 @@
     {
       "headline": "Scratching an Itch",
       "songName": "Petrichor",
-      "songNameInfo": "something",
+      "songNameInfo": "petrichor<br /><strong>/ˈpɛt.ɹɪˌkɔɹ, -kɚ/</strong><br />The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
       "body": "The main riff of this song has been living in my head rent-free for at least 5 years. It feels so good to get it out of there and into the world. I'd play this riff all the time to de-stress so this song was incredibly meditative and therapeutic to finally write. I really feel like I did it justice.",
       "technologyShoutouts": [
         {
@@ -175,8 +176,8 @@
     },
     {
       "headline": "Indie Rock in 11",
-      "songName": "Petrichor",
-      "songNameInfo": "something",
+      "songName": "Traverse",
+      "songNameInfo": null,
       "body": "Silversun Pickups and Manchester Orchestra are two of my favourite rock bands out there and I resonate a lot with their melodies and tones. I don't write much of it but I'm very happy when I can come up with a nice chill Indie Rock soundscape.",
       "technologyShoutouts": [
         {
@@ -267,8 +268,8 @@
     },
     {
       "headline": "Creepy Sounds, Happy Music",
-      "songName": "Ward",
-      "songNameInfo": null,
+      "songName": "Zenith",
+      "songNameInfo": "zenith<br /><strong>/ˈzɛn.ɪθ/</strong><br />The highest point in the sky reached by a celestial body.",
       "body": "I'm starting to latch onto side-chained choirs and pads as a signature aesthetic in the music for my game. While this song didn't shake out to be totally rooted in darkness and horror, I learned techniques that would absolutely come in handy for writing more dark music in the future.",
       "technologyShoutouts": [
         {
@@ -293,7 +294,7 @@
     {
       "headline": "No Happy, Only Creepy",
       "songName": "Steppe",
-      "songNameInfo": "something",
+      "songNameInfo": "steppe<br /><strong>/stɛp/</strong><br />The grasslands of Eastern Europe and Asia. Similar to (North American) prairie and (African) savanna.",
       "body": "This song was really make or break for me. It's the last of the 12 songs and I really wanted to nail down the aesthetic for my game with this one. I'm super happy with how this turned out. I was able to use a lot of the same techniques I used for Zenith, but really held myself to the dark/horror theme.",
       "technologyShoutouts": [
         {

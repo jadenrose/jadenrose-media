@@ -1,6 +1,6 @@
 <script>
 export default {
-    props: ['label', 'description', 'isCurrentlySelected']
+  props: ['label', 'description', 'isCurrentlySelected'],
 }
 </script>
 
@@ -25,7 +25,8 @@ export default {
   display: flex;
   align-items: center;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 0.78rem;
+  margin-bottom: 8px;
 }
 
 .song-tag.selected {

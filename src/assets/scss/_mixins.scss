@@ -9,3 +9,15 @@
   border: none;
   cursor: pointer;
 }
+
+@mixin tablet {
+  @media (min-width: 650px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: 700px) {
+    @content;
+  }
+}
