@@ -35,7 +35,7 @@ import Footer from '../components/Footer.vue'
 }
 
 .page-main {
-  margin-top: 200px;
+  margin-top: 11.11rem;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
